@@ -5,10 +5,4 @@
   - Learn how to use CNNS for object detection, semantic segmentation
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> Leads into Landmark Classification and Tagging for Social Media Project using CNNs
